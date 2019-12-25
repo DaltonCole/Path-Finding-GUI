@@ -6,6 +6,10 @@ GUI to visualize how path finding algorithms find the shortest path. Speed and e
 ```
 python3 gui.py
 ```
+## Requirements
+* Python 3.5.2 or greater
+* Tkinter
+
 
 ## Path Finding Algorithms
 * A*

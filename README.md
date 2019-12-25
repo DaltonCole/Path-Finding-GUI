@@ -2,6 +2,9 @@
 
 GUI to visualize how path finding algorithms find the shortest path. Speed and explored nodes can be seen visually.
 
+## How To Run
+```python3 gui.py'''
+
 ## Path Finding Algorithms
 * A*
 * Depth First Search
